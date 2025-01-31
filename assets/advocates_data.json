@@ -1,0 +1,224 @@
+[
+    {
+      "name": "Advocate G.S. Parashar",
+      "expertise": ["Criminal", "Matrimonial", "Divorce", "Family Cases"],
+      "location": "Delhi",
+      "mobile": "9752521571",
+      "experience": 5,
+      "bio": "Advocate G.S. Parashar is a dedicated litigator practicing in Delhi and across India, specializing in criminal and matrimonial cases.",
+      "languages": ["English", "Hindi"],
+      "rating": 4.5
+    },
+    {
+      "name": "Advocate Priyanka S. Aneja",
+      "expertise": ["Matrimonial", "Family Laws", "Civil Laws", "Labour and Employment Law", "Criminal Laws"],
+      "location": "Delhi, India",
+      "mobile": "9811804797",
+      "experience": 5,
+      "bio": "With seven years in office work and five years in law, Advocate Priyanka Aneja practices in the Supreme Court, Delhi High Court, and various tribunals.",
+      "languages": ["English", "Hindi"],
+      "rating": 4.7
+    },
+    {
+      "name": "Advocate Menka Gupta",
+      "expertise": ["Criminal", "Juvenile", "Matrimonial"],
+      "location": "Chandigarh",
+      "mobile": "9569726974",
+      "experience": 5,
+      "bio": "Practicing in the Punjab and Haryana High Court, Advocate Menka Gupta specializes in criminal and matrimonial cases.",
+      "languages": ["English", "Hindi", "Punjabi", "Avadhi"],
+      "rating": 4.6
+    },
+    {
+      "name": "Advocate Rohit Jain",
+      "expertise": ["Criminal", "Cyber Law", "Matrimonial Cases"],
+      "location": "Indore",
+      "mobile": "9039931175",
+      "experience": 1,
+      "bio": "With a background in cyber security, Advocate Rohit Jain practices in the Indore High Court and District Court.",
+      "languages": ["English", "Hindi"],
+      "rating": 4.3
+    },
+    {
+      "name": "Advocate Rakhi Budhiraja",
+      "expertise": ["Civil Law", "Criminal Law", "Trade Mark Infringement Cases", "Constitutional Remedies","Appeals", "Writ Petitions", "PILs", "Consumer Cases", "Income Tax Act and Related Services", "Business Advisory", "Matrimonial Cases"],
+      "location": "Delhi",
+      "mobile": "8750500500",
+      "experience": 18,
+      "bio": "Advocate Rakhi Budhiraja has extensive experience practicing in the Supreme Court of India, Delhi High Court, and various district courts.",
+      "languages": ["English", "Hindi"],
+      "rating": 4.8
+    },
+    {
+      "name": "Advocate Kanchan Kumari",
+      "expertise": ["Family Matters"," Mutual Consent Divorce", "Contested Divorce"," Documentation", "Legal Notice", "138 Matters", "Summary Suit Cases", "Sale Agreement"," Civil", "Criminal Matters"],
+      "location": "Mumbai, India",
+      "mobile": "9004288217",
+      "experience": 5,
+      "bio": "Advocate Kanchan Kumari specializes in family law and practices in the Bombay High Court and subordinate courts.",
+      "languages": ["English", "Hindi", "Marathi"],
+      "rating": 4.5
+    },
+    {
+      "name": "Advocate Harpreet Singh Sachdeva",
+      "expertise": ["Civil Litigation"],
+      "location": "Delhi, India",
+      "mobile": "9716188189",
+      "experience": 25,
+      "bio": "With 25 years of experience, Advocate Harpreet Singh Sachdeva practices in the Delhi High Court and district courts.",
+      "languages": ["English", "Hindi", "Punjabi"],
+      "rating": 4.9
+    },
+    {
+      "name": "Advocate Riya Gulati",
+      "expertise": ["Civil Commercial Cases", "Criminal", "Arbitration", "Contract Drafting"],
+      "location": "India",
+      "mobile": "9818061471",
+      "experience": 3.5,
+      "bio": "Advocate Riya Gulati practices across various courts, including district courts, commissions, tribunals, High Court, and Supreme Court.",
+      "languages": ["English", "Hindi"],
+      "rating": 4.4
+    },
+    {
+      "name": "Advocate Arihant Jain",
+      "expertise": ["Civil", "Consumer"],
+      "location": "Delhi NCR, Amritsar District, India",
+      "mobile": "9811799646",
+      "experience": 4.5,
+      "bio": "Advocate Arihant Jain practices in all district courts in Delhi NCR and consumer commissions.",
+      "languages": ["Hindi", "English", "Punjabi"],
+      "rating": 4.5
+    },
+    {
+      "name": "Advocate Rashmi Parmar",
+      "expertise":[ "Testamentary Matters", "Documents Drafting", "Cheque Bounce Matters", "Registration of All Documents", "Adjudication", "Deemed Conveyance of Society"],
+      "location": "Mumbai and Navi Mumbai",
+      "mobile": "9821330337",
+      "experience": 5,
+      "bio": "Practicing in the High Court and Cooperative Court, Advocate Rashmi Parmar specializes in testamentary matters and document drafting.",
+      "languages": ["English", "Marathi", "Gujarati"],
+      "rating": 4.6
+    },
+    {
+      "name": "Advocate Darshan Modi",
+      "expertise": ["Charity Commissioners Office", "Co-operative Society", "Revenue Matters", "Arbitration Matter"],
+      "location": "Mumbai",
+      "mobile": "9819595938",
+      "experience": 10,
+      "bio": "With a decade of experience, Advocate Darshan Modi practices in various courts, including the Bombay City Civil and Sessions Court.",
+      "languages": ["Hindi", "English", "Marathi", "Gujarati"],
+      "rating": 4.7
+    },
+    {
+      "name": "Advocate Pulkit Gulati",
+      "expertise": ["Civil","Criminal"],
+      "location": "Delhi",
+      "mobile": "9999037177",
+      "experience": 4,
+      "bio": "Advocate Pulkit Gulati practices in the High Court and all Delhi district courts, handling both civil and criminal cases.",
+      "languages": ["Hindi", "English"],
+      "rating": 4.4
+    },
+    {
+        "name": "Advocate Rajesh K.S",
+        "expertise": ["Family" , "Civil" , "Criminal"],
+        "location": "Bangalore",
+        "mobile": "Not Available",
+        "experience": 19,
+        "bio": "Advocate Rajesh K.S has 19 years of experience and practices in Subedar Chatram Road (SC Road), Bangalore.",
+        "languages": ["English", "Kannada"],
+        "rating": 4.7
+      },
+      {
+        "name": "Advocate Ricky Chopra",
+        "expertise": ["Civil", "Corporate", "Criminal"],
+        "location": "Gurgaon",
+        "mobile": "Not Available",
+        "experience": 24,
+        "bio": "Advocate Ricky Chopra has 24 years of experience and practices in Sector - 49, Gurgaon.",
+        "languages": ["English", "Hindi"],
+        "rating": 4.7
+      },
+      {
+        "name": "Advocate Wg Cdr Ajit Kakkar (Retd)",
+        "expertise": ["Labour" , "Civil" , "Criminal" ],
+        "location": "Dwarka",
+        "mobile": "Not Available",
+        "experience": 25,
+        "bio": "Advocate Ajit Kakkar, a retired Wing Commander, has 25 years of legal experience and practices in Dwarka, Delhi.",
+        "languages": ["English", "Hindi"],
+        "rating": 4.8
+      },
+      {
+        "name": "Advocate Sunil Kumar Bakshi",
+        "expertise": ["Civil", "Criminal", "Family"],
+        "location": "Faridabad",
+        "mobile": "Not Available",
+        "experience": 38,
+        "bio": "With 38 years of experience, Advocate Sunil Kumar Bakshi practices in Sector-16, Faridabad.",
+        "languages": ["English", "Hindi"],
+        "rating": 4.9
+      },
+        {
+          "name": "Advocate Rajesh Rai",
+          "expertise": ["Consumer Court", "Civil Law", "Criminal Law"],
+          "location": "Dwarka",
+          "mobile": "Not Available",
+          "experience": 25,
+          "bio": "Advocate Rajesh Rai has 25 years of experience and practices in Sector-19, Dwarka, Delhi.",
+          "languages": ["English", "Hindi"],
+          "rating": 4.9
+        },
+        {
+          "name": "Advocate H Gouri Shankar",
+          "expertise": ["Civil Law", "Criminal Law", "Family Law"],
+          "location": "Hyderabad",
+          "mobile": "Not Available",
+          "experience": "Not Available",
+          "bio": "Advocate H Gouri Shankar practices in Hyderabad, providing legal services in civil, criminal, and family law.",
+          "languages": ["English", "Telugu"],
+          "rating": "Not Available"
+        },
+        {
+          "name": "Advocate Ramesh Gupta",
+          "expertise": ["Criminal Law"],
+          "location": "Delhi",
+          "mobile": "Not Available",
+          "experience": "Not Available",
+          "bio": "Advocate Ramesh Gupta is renowned for handling high-profile criminal cases in Delhi.",
+          "languages": ["English", "Hindi"],
+          "rating": "Not Available"
+        },
+        {
+          "name": "Advocate Salman Khurshid",
+          "expertise": ["Constitutional Law", "Civil Law"],
+          "location": "Delhi",
+          "mobile": "Not Available",
+          "experience": "Not Available",
+          "bio": "Advocate Salman Khurshid is a prominent lawyer, author, and politician practicing in Delhi.",
+          "languages": ["English", "Hindi"],
+          "rating": "Not Available"
+        },
+        {
+          "name": "Advocate Sidharth Luthra",
+          "expertise": ["Criminal Law", "Constitutional Law"],
+          "location": "Delhi",
+          "mobile": "Not Available",
+          "experience": "Not Available",
+          "bio": "Advocate Sidharth Luthra is a highly renowned criminal defense attorney in Delhi.",
+          "languages": ["English", "Hindi"],
+          "rating": "Not Available"
+        },
+        {
+          "name": "Advocate K.T.S. Tulsi",
+          "expertise": ["Criminal Law"],
+          "location": "Delhi",
+          "mobile": "Not Available",
+          "experience": "Not Available",
+          "bio": "Advocate K.T.S. Tulsi is a senior advocate and politician specializing in criminal law in Delhi.",
+          "languages": ["English", "Hindi"],
+          "rating": "Not Available"
+        }      
+]
+   
+  
