@@ -7,7 +7,7 @@ import 'package:legalease/features/home/presentations/getx/botttom_nav_bar_contr
 import 'package:legalease/features/home/presentations/screens/home_screen.dart';
 import 'package:legalease/features/profile/presentations/screens/profile_screen.dart';
 
-class BottomNavigationBAar extends StatelessWidget {
+class BottomNavigationBarWidget extends StatelessWidget {
 final BottomNavController controller = Get.put(BottomNavController());
 final List<Widget> pages = [
     HomeScreen(),
